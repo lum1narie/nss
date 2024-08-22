@@ -425,6 +425,23 @@
 		]
 	},
 	{
+		"name": "nagaeki",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/nagaeki",
+		"shell": "/bin/bash",
+		"uid": 60050,
+		"gid": 60050
+	},
+	{
+		"name": "nagaeki",
+		"passwd": "",
+		"gid": 60050,
+		"members": [
+			"nagaeki"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -453,7 +470,8 @@
 			"pirosiki197",
 			"Pugma",
 			"alter334",
-			"pasmophobia"
+			"pasmophobia",
+			"nagaeki"
 		]
 	}
 ]
