@@ -221,23 +221,6 @@
 		]
 	},
 	{
-		"name": "mehm8128",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/mehm8128",
-		"shell": "/bin/bash",
-		"uid": 60034,
-		"gid": 60034
-	},
-	{
-		"name": "mehm8128",
-		"passwd": "",
-		"gid": 60034,
-		"members": [
-			"mehm8128"
-		]
-	},
-	{
 		"name": "saitenntaisei",
 		"passwd": "",
 		"gecos": "",
