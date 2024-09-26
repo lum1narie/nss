@@ -17,23 +17,6 @@
 		]
 	},
 	{
-		"name": "sapphi-red",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/sapphi-red",
-		"shell": "/bin/bash",
-		"uid": 60007,
-		"gid": 60007
-	},
-	{
-		"name": "sapphi-red",
-		"passwd": "",
-		"gid": 60007,
-		"members": [
-			"sapphi-red"
-		]
-	},
-	{
 		"name": "mazrean",
 		"passwd": "",
 		"gecos": "",
@@ -447,7 +430,6 @@
 		"gid": 60000,
 		"members": [
 			"motoki317",
-			"sapphi-red",
 			"mazrean",
 			"trapyojo",
 			"hijiki51",
