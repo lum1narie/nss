@@ -1,22 +1,5 @@
 [
 	{
-		"name": "sapphi-red",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/sapphi-red",
-		"shell": "/bin/bash",
-		"uid": 60007,
-		"gid": 60007
-	},
-	{
-		"name": "sapphi-red",
-		"passwd": "",
-		"gid": 60007,
-		"members": [
-			"sapphi-red"
-		]
-	},
-	{
 		"name": "hijiki51",
 		"passwd": "",
 		"gecos": "",
@@ -72,7 +55,6 @@
 		"passwd": "",
 		"gid": 60000,
 		"members": [
-			"sapphi-red",
 			"hijiki51",
 			"Takeno-hito",
 			"cp-20"
