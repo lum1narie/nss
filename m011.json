@@ -408,6 +408,23 @@
 		]
 	},
 	{
+		"name": "kaitoyama",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/kaitoyama",
+		"shell": "/bin/bash",
+		"uid": 60051,
+		"gid": 60051
+	},
+	{
+		"name": "kaitoyama",
+		"passwd": "",
+		"gid": 60051,
+		"members": [
+			"kaitoyama"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -435,7 +452,8 @@
 			"alter334",
 			"ZOI-dayo",
 			"pasmophobia",
-			"nagaeki"
+			"nagaeki",
+			"kaitoyama"
 		]
 	}
 ]
