@@ -442,6 +442,23 @@
 		]
 	},
 	{
+		"name": "kentaro1043",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/kentaro1043",
+		"shell": "/bin/bash",
+		"uid": 60053,
+		"gid": 60053
+	},
+	{
+		"name": "kentaro1043",
+		"passwd": "",
+		"gid": 60053,
+		"members": [
+			"kentaro1043"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -471,7 +488,8 @@
 			"pasmophobia",
 			"nagaeki",
 			"kaitoyama",
-			"iChemy"
+			"iChemy",
+			"kentaro1043"
 		]
 	}
 ]
