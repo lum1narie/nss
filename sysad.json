@@ -187,23 +187,6 @@
 		]
 	},
 	{
-		"name": "harsssh",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/harsssh",
-		"shell": "/bin/bash",
-		"uid": 60035,
-		"gid": 60035
-	},
-	{
-		"name": "harsssh",
-		"passwd": "",
-		"gid": 60035,
-		"members": [
-			"harsssh"
-		]
-	},
-	{
 		"name": "saitenntaisei",
 		"passwd": "",
 		"gecos": "",
@@ -474,7 +457,6 @@
 			"MotoyaAsahina",
 			"yukikurage",
 			"Rozelin-dc",
-			"harsssh",
 			"saitenntaisei",
 			"seigo2016",
 			"zer0-star",
