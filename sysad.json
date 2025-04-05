@@ -1,39 +1,5 @@
 [
 	{
-		"name": "mazrean",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/mazrean",
-		"shell": "/bin/bash",
-		"uid": 60009,
-		"gid": 60009
-	},
-	{
-		"name": "mazrean",
-		"passwd": "",
-		"gid": 60009,
-		"members": [
-			"mazrean"
-		]
-	},
-	{
-		"name": "motoki317",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/motoki317",
-		"shell": "/bin/bash",
-		"uid": 60006,
-		"gid": 60006
-	},
-	{
-		"name": "motoki317",
-		"passwd": "",
-		"gid": 60006,
-		"members": [
-			"motoki317"
-		]
-	},
-	{
 		"name": "wasabi315",
 		"passwd": "",
 		"gecos": "",
@@ -48,23 +14,6 @@
 		"gid": 60011,
 		"members": [
 			"wasabi315"
-		]
-	},
-	{
-		"name": "ryoha000",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/ryoha000",
-		"shell": "/bin/bash",
-		"uid": 60013,
-		"gid": 60013
-	},
-	{
-		"name": "ryoha000",
-		"passwd": "",
-		"gid": 60013,
-		"members": [
-			"ryoha000"
 		]
 	},
 	{
@@ -133,23 +82,6 @@
 		"gid": 60022,
 		"members": [
 			"lum1narie"
-		]
-	},
-	{
-		"name": "MotoyaAsahina",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/MotoyaAsahina",
-		"shell": "/bin/bash",
-		"uid": 60026,
-		"gid": 60026
-	},
-	{
-		"name": "MotoyaAsahina",
-		"passwd": "",
-		"gid": 60026,
-		"members": [
-			"MotoyaAsahina"
 		]
 	},
 	{
@@ -447,14 +379,10 @@
 		"gid": 60000,
 		"members": [
 			"trapyojo",
-			"mazrean",
-			"motoki317",
 			"wasabi315",
-			"ryoha000",
 			"hijiki51",
 			"toshi-pono",
 			"lum1narie",
-			"MotoyaAsahina",
 			"yukikurage",
 			"Rozelin-dc",
 			"saitenntaisei",
