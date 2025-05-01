@@ -374,6 +374,23 @@
 		]
 	},
 	{
+		"name": "blancnoir256",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/blancnoir256",
+		"shell": "/bin/bash",
+		"uid": 60054,
+		"gid": 60054
+	},
+	{
+		"name": "blancnoir256",
+		"passwd": "",
+		"gid": 60054,
+		"members": [
+			"blancnoir256"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -399,7 +416,8 @@
 			"pasmophobia",
 			"nagaeki",
 			"kaitoyama",
-			"kentaro1043"
+			"kentaro1043",
+			"blancnoir256"
 		]
 	}
 ]
