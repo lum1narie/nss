@@ -1,1 +1,1 @@
-wiki の /teams/SysAd/linux-accounts も忘れずに変更してください
+更新方法はwiki の /teams/SysAd/linux-accounts を参照してください
