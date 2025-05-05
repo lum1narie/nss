@@ -391,6 +391,23 @@
 		]
 	},
 	{
+		"name": "ikura-hamu",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/ikura-hamu",
+		"shell": "/bin/bash",
+		"uid": 60055,
+		"gid": 60055
+	},
+	{
+		"name": "ikura-hamu",
+		"passwd": "",
+		"gid": 60055,
+		"members": [
+			"ikura-hamu"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -417,7 +434,8 @@
 			"kaitoyama",
 			"iChemy",
 			"kentaro1043",
-			"blancnoir256"
+			"blancnoir256",
+			"ikura-hamu"
 		]
 	}
 ]
