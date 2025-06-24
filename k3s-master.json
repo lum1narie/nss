@@ -1,0 +1,89 @@
+[
+	{
+		"name": "hijiki51",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/hijiki51",
+		"shell": "/bin/bash",
+		"uid": 60020,
+		"gid": 60020
+	},
+	{
+		"name": "hijiki51",
+		"passwd": "",
+		"gid": 60020,
+		"members": ["hijiki51"]
+	},
+	{
+		"name": "Takeno-hito",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Takeno-hito",
+		"shell": "/bin/bash",
+		"uid": 60039,
+		"gid": 60039
+	},
+	{
+		"name": "Takeno-hito",
+		"passwd": "",
+		"gid": 60039,
+		"members": ["Takeno-hito"]
+	},
+	{
+		"name": "cp-20",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/cp-20",
+		"shell": "/bin/bash",
+		"uid": 60043,
+		"gid": 60043
+	},
+	{
+		"name": "cp-20",
+		"passwd": "",
+		"gid": 60043,
+		"members": ["cp-20"]
+	},
+	{
+		"name": "pirosiki197",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/pirosiki197",
+		"shell": "/bin/bash",
+		"uid": 60044,
+		"gid": 60044
+	},
+	{
+		"name": "pirosiki197",
+		"passwd": "",
+		"gid": 60044,
+		"members": ["pirosiki197"]
+	},
+	{
+		"name": "kentaro1043",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/kentaro1043",
+		"shell": "/bin/bash",
+		"uid": 60053,
+		"gid": 60053
+	},
+	{
+		"name": "kentaro1043",
+		"passwd": "",
+		"gid": 60053,
+		"members": ["kentaro1043"]
+	},
+	{
+		"name": "sysad",
+		"passwd": "",
+		"gid": 60000,
+		"members": [
+			"hijiki51",
+			"Takeno-hito",
+			"cp-20",
+			"pirosiki197",
+			"kentaro1043"
+		]
+	}
+]
