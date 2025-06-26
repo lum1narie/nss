@@ -408,6 +408,23 @@
 		]
 	},
 	{
+		"name": "kohsuke",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/kohsuke",
+		"shell": "/bin/bash",
+		"uid": 60056,
+		"gid": 60056
+	},
+	{
+		"name": "kohsuke",
+		"passwd": "",
+		"gid": 60056,
+		"members": [
+			"kohsuke"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -435,7 +452,8 @@
 			"kaitoyama",
 			"kentaro1043",
 			"blancnoir256",
-			"ikura-hamu"
+			"ikura-hamu",
+			"kohsuke"
 		]
 	}
 ]
