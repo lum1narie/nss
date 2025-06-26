@@ -408,37 +408,37 @@
 		]
 	},
 	{
-		"name": "kohsuke",
+		"name": "Hueter57",
 		"passwd": "",
 		"gecos": "",
-		"dir": "/home/kohsuke",
+		"dir": "/home/Hueter57",
 		"shell": "/bin/bash",
 		"uid": 60056,
 		"gid": 60056
 	},
 	{
-		"name": "kohsuke",
+		"name": "Hueter57",
 		"passwd": "",
 		"gid": 60056,
 		"members": [
-			"kohsuke"
+			"Hueter57"
 		]
 	},
 	{
-		"name": "howard",
+		"name": "howard12721",
 		"passwd": "",
 		"gecos": "",
-		"dir": "/home/howard",
+		"dir": "/home/howard12721",
 		"shell": "/bin/bash",
 		"uid": 60057,
 		"gid": 60057
 	},
 	{
-		"name": "howard",
+		"name": "howard12721",
 		"passwd": "",
 		"gid": 60057,
 		"members": [
-			"howard"
+			"howard12721"
 		]
 	},
 	{
@@ -470,8 +470,8 @@
 			"kentaro1043",
 			"blancnoir256",
 			"ikura-hamu",
-			"kohsuke",
-			"howard"
+			"Hueter57",
+			"howard12721"
 		]
 	}
 ]
