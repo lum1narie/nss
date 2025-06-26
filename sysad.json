@@ -425,6 +425,23 @@
 		]
 	},
 	{
+		"name": "howard",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/howard",
+		"shell": "/bin/bash",
+		"uid": 60057,
+		"gid": 60057
+	},
+	{
+		"name": "howard",
+		"passwd": "",
+		"gid": 60057,
+		"members": [
+			"howard"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -453,7 +470,8 @@
 			"kentaro1043",
 			"blancnoir256",
 			"ikura-hamu",
-			"kohsuke"
+			"kohsuke",
+			"howard"
 		]
 	}
 ]
