@@ -442,6 +442,23 @@
 		]
 	},
 	{
+		"name": "otukado",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/otukado",
+		"shell": "/bin/bash",
+		"uid": 60058,
+		"gid": 60058
+	},
+	{
+		"name": "otukado",
+		"passwd": "",
+		"gid": 60058,
+		"members": [
+			"otukado"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -471,7 +488,8 @@
 			"blancnoir256",
 			"ikura-hamu",
 			"Hueter57",
-			"howard12721"
+			"howard12721",
+			"otukado"
 		]
 	}
 ]
