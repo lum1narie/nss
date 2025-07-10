@@ -442,6 +442,23 @@
 		]
 	},
 	{
+		"name": "kaomojikun5",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/kaomojikun5",
+		"shell": "/bin/bash",
+		"uid": 60059,
+		"gid": 60059
+	},
+	{
+		"name": "kaomojikun5",
+		"passwd": "",
+		"gid": 60059,
+		"members": [
+			"kaomojikun5"
+		]
+	},
+	{
 		"name": "otukado",
 		"passwd": "",
 		"gecos": "",
@@ -489,6 +506,7 @@
 			"ikura-hamu",
 			"Hueter57",
 			"howard12721",
+			"kaomojikun5",
 			"otukado"
 		]
 	}
