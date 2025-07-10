@@ -476,6 +476,23 @@
 		]
 	},
 	{
+		"name": "Fto4",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Fto4",
+		"shell": "/bin/bash",
+		"uid": 60060,
+		"gid": 60060
+	},
+	{
+		"name": "Fto4",
+		"passwd": "",
+		"gid": 60060,
+		"members": [
+			"Fto4"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -507,7 +524,8 @@
 			"Hueter57",
 			"howard12721",
 			"kaomojikun5",
-			"otukado"
+			"otukado",
+			"Fto4"
 		]
 	}
 ]
