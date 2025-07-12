@@ -493,6 +493,23 @@
 		]
 	},
 	{
+		"name": "uni_kakurenbo",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/uni_kakurenbo",
+		"shell": "/bin/bash",
+		"uid": 60061,
+		"gid": 60061
+	},
+	{
+		"name": "uni_kakurenbo",
+		"passwd": "",
+		"gid": 60061,
+		"members": [
+			"uni_kakurenbo"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -525,7 +542,8 @@
 			"howard12721",
 			"kaomojikun5",
 			"otukado",
-			"Fto4"
+			"Fto4",
+            "uni_kakurenbo"
 		]
 	}
 ]
