@@ -493,20 +493,20 @@
 		]
 	},
 	{
-		"name": "uni_kakurenbo",
+		"name": "uni-kakurenbo",
 		"passwd": "",
 		"gecos": "",
-		"dir": "/home/uni_kakurenbo",
+		"dir": "/home/uni-kakurenbo",
 		"shell": "/bin/bash",
 		"uid": 60061,
 		"gid": 60061
 	},
 	{
-		"name": "uni_kakurenbo",
+		"name": "uni-kakurenbo",
 		"passwd": "",
 		"gid": 60061,
 		"members": [
-			"uni_kakurenbo"
+			"uni-kakurenbo"
 		]
 	},
 	{
@@ -543,7 +543,7 @@
 			"kaomojikun5",
 			"otukado",
 			"Fto4",
-			"uni_kakurenbo"
+			"uni-kakurenbo"
 		]
 	}
 ]
