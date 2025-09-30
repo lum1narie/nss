@@ -527,6 +527,23 @@
 		]
 	},
 	{
+		"name": "Charararu",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Charararu",
+		"shell": "/bin/bash",
+		"uid": 60063,
+		"gid": 60063
+	},
+	{
+		"name": "Charararu",
+		"passwd": "",
+		"gid": 60063,
+		"members": [
+			"Charararu"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -561,7 +578,8 @@
 			"otukado",
 			"Fto4",
 			"uni-kakurenbo",
-			"reiroop"
+			"reiroop",
+			"Charararu"
 		]
 	}
 ]
