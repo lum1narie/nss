@@ -527,6 +527,23 @@
 		]
 	},
 	{
+		"name": "renkonmaster",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/renkonmaster",
+		"shell": "/bin/bash",
+		"uid": 60064,
+		"gid": 60064
+	},
+	{
+		"name": "renkonmaster",
+		"passwd": "",
+		"gid": 60064,
+		"members": [
+			"renkonmaster"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -561,7 +578,8 @@
 			"otukado",
 			"Fto4",
 			"uni-kakurenbo",
-			"reiroop"
+			"reiroop",
+			"renkonmaster"
 		]
 	}
 ]
