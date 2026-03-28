@@ -51,23 +51,6 @@
 		]
 	},
 	{
-		"name": "lum1narie",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/lum1narie",
-		"shell": "/bin/bash",
-		"uid": 60022,
-		"gid": 60022
-	},
-	{
-		"name": "lum1narie",
-		"passwd": "",
-		"gid": 60022,
-		"members": [
-			"lum1narie"
-		]
-	},
-	{
 		"name": "8379K",
 		"passwd": "",
 		"gecos": "",
@@ -568,7 +551,6 @@
 			"trapyojo",
 			"hijiki51",
 			"toshi-pono",
-			"lum1narie",
 			"8379K",
 			"yukikurage",
 			"Rozelin-dc",
