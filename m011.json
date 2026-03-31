@@ -34,23 +34,6 @@
 		]
 	},
 	{
-		"name": "toshi-pono",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/toshi-pono",
-		"shell": "/bin/bash",
-		"uid": 60021,
-		"gid": 60021
-	},
-	{
-		"name": "toshi-pono",
-		"passwd": "",
-		"gid": 60021,
-		"members": [
-			"toshi-pono"
-		]
-	},
-	{
 		"name": "lum1narie",
 		"passwd": "",
 		"gecos": "",
@@ -567,7 +550,6 @@
 		"members": [
 			"trapyojo",
 			"hijiki51",
-			"toshi-pono",
 			"lum1narie",
 			"8379K",
 			"yukikurage",
