@@ -1,20 +1,5 @@
 [
 	{
-		"name": "hijiki51",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/hijiki51",
-		"shell": "/bin/bash",
-		"uid": 60020,
-		"gid": 60020
-	},
-	{
-		"name": "hijiki51",
-		"passwd": "",
-		"gid": 60020,
-		"members": ["hijiki51"]
-	},
-	{
 		"name": "Takeno-hito",
 		"passwd": "",
 		"gecos": "",
@@ -74,7 +59,7 @@
 		"gid": 60053,
 		"members": ["kentaro1043"]
 	},
-		{
+	{
 		"name": "blancnoir256",
 		"passwd": "",
 		"gecos": "",
@@ -94,7 +79,6 @@
 		"passwd": "",
 		"gid": 60000,
 		"members": [
-			"hijiki51",
 			"Takeno-hito",
 			"cp-20",
 			"pirosiki197",
