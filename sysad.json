@@ -68,23 +68,6 @@
 		]
 	},
 	{
-		"name": "Rozelin-dc",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/Rozelin-dc",
-		"shell": "/bin/bash",
-		"uid": 60033,
-		"gid": 60033
-	},
-	{
-		"name": "Rozelin-dc",
-		"passwd": "",
-		"gid": 60033,
-		"members": [
-			"Rozelin-dc"
-		]
-	},
-	{
 		"name": "saitenntaisei",
 		"passwd": "",
 		"gecos": "",
@@ -501,7 +484,6 @@
 			"wasabi315",
 			"lum1narie",
 			"yukikurage",
-			"Rozelin-dc",
 			"saitenntaisei",
 			"seigo2016",
 			"zer0-star",
