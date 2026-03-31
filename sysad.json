@@ -204,23 +204,6 @@
 		]
 	},
 	{
-		"name": "ras0q",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/ras0q",
-		"shell": "/bin/bash",
-		"uid": 60042,
-		"gid": 60042
-	},
-	{
-		"name": "ras0q",
-		"passwd": "",
-		"gid": 60042,
-		"members": [
-			"ras0q"
-		]
-	},
-	{
 		"name": "cp-20",
 		"passwd": "",
 		"gecos": "",
@@ -543,7 +526,6 @@
 			"Takeno-hito",
 			"s9-sukyu",
 			"pikachu0310",
-			"ras0q",
 			"cp-20",
 			"pirosiki197",
 			"Pugma",
