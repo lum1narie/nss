@@ -17,23 +17,6 @@
 		]
 	},
 	{
-		"name": "hijiki51",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/hijiki51",
-		"shell": "/bin/bash",
-		"uid": 60020,
-		"gid": 60020
-	},
-	{
-		"name": "hijiki51",
-		"passwd": "",
-		"gid": 60020,
-		"members": [
-			"hijiki51"
-		]
-	},
-	{
 		"name": "lum1narie",
 		"passwd": "",
 		"gecos": "",
@@ -48,23 +31,6 @@
 		"gid": 60022,
 		"members": [
 			"lum1narie"
-		]
-	},
-	{
-		"name": "8379K",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/8379K",
-		"shell": "/bin/bash",
-		"uid": 60029,
-		"gid": 60029
-	},
-	{
-		"name": "8379K",
-		"passwd": "",
-		"gid": 60029,
-		"members": [
-			"8379K"
 		]
 	},
 	{
@@ -150,23 +116,6 @@
 		"gid": 60039,
 		"members": [
 			"Takeno-hito"
-		]
-	},
-	{
-		"name": "ras0q",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/ras0q",
-		"shell": "/bin/bash",
-		"uid": 60042,
-		"gid": 60042
-	},
-	{
-		"name": "ras0q",
-		"passwd": "",
-		"gid": 60042,
-		"members": [
-			"ras0q"
 		]
 	},
 	{
@@ -320,23 +269,6 @@
 		"gid": 60051,
 		"members": [
 			"kaitoyama"
-		]
-	},
-	{
-		"name": "iChemy",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/iChemy",
-		"shell": "/bin/bash",
-		"uid": 60052,
-		"gid": 60052
-	},
-	{
-		"name": "iChemy",
-		"passwd": "",
-		"gid": 60052,
-		"members": [
-			"iChemy"
 		]
 	},
 	{
@@ -549,15 +481,12 @@
 		"gid": 60000,
 		"members": [
 			"trapyojo",
-			"hijiki51",
 			"lum1narie",
-			"8379K",
 			"yukikurage",
 			"Rozelin-dc",
 			"saitenntaisei",
 			"seigo2016",
 			"Takeno-hito",
-			"ras0q",
 			"cp-20",
 			"pirosiki197",
 			"H1rono",
@@ -567,7 +496,6 @@
 			"pasmophobia",
 			"nagaeki",
 			"kaitoyama",
-			"iChemy",
 			"kentaro1043",
 			"blancnoir256",
 			"ikura-hamu",

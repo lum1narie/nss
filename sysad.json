@@ -34,23 +34,6 @@
 		]
 	},
 	{
-		"name": "hijiki51",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/hijiki51",
-		"shell": "/bin/bash",
-		"uid": 60020,
-		"gid": 60020
-	},
-	{
-		"name": "hijiki51",
-		"passwd": "",
-		"gid": 60020,
-		"members": [
-			"hijiki51"
-		]
-	},
-	{
 		"name": "lum1narie",
 		"passwd": "",
 		"gecos": "",
@@ -201,23 +184,6 @@
 		"gid": 60041,
 		"members": [
 			"pikachu0310"
-		]
-	},
-	{
-		"name": "ras0q",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/ras0q",
-		"shell": "/bin/bash",
-		"uid": 60042,
-		"gid": 60042
-	},
-	{
-		"name": "ras0q",
-		"passwd": "",
-		"gid": 60042,
-		"members": [
-			"ras0q"
 		]
 	},
 	{
@@ -533,7 +499,6 @@
 		"members": [
 			"trapyojo",
 			"wasabi315",
-			"hijiki51",
 			"lum1narie",
 			"yukikurage",
 			"Rozelin-dc",
@@ -543,7 +508,6 @@
 			"Takeno-hito",
 			"s9-sukyu",
 			"pikachu0310",
-			"ras0q",
 			"cp-20",
 			"pirosiki197",
 			"Pugma",
