@@ -51,23 +51,6 @@
 		]
 	},
 	{
-		"name": "8379K",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/8379K",
-		"shell": "/bin/bash",
-		"uid": 60029,
-		"gid": 60029
-	},
-	{
-		"name": "8379K",
-		"passwd": "",
-		"gid": 60029,
-		"members": [
-			"8379K"
-		]
-	},
-	{
 		"name": "yukikurage",
 		"passwd": "",
 		"gecos": "",
@@ -551,7 +534,6 @@
 			"trapyojo",
 			"toshi-pono",
 			"lum1narie",
-			"8379K",
 			"yukikurage",
 			"Rozelin-dc",
 			"saitenntaisei",
