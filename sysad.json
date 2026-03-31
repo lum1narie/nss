@@ -34,40 +34,6 @@
 		]
 	},
 	{
-		"name": "hijiki51",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/hijiki51",
-		"shell": "/bin/bash",
-		"uid": 60020,
-		"gid": 60020
-	},
-	{
-		"name": "hijiki51",
-		"passwd": "",
-		"gid": 60020,
-		"members": [
-			"hijiki51"
-		]
-	},
-	{
-		"name": "toshi-pono",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/toshi-pono",
-		"shell": "/bin/bash",
-		"uid": 60021,
-		"gid": 60021
-	},
-	{
-		"name": "toshi-pono",
-		"passwd": "",
-		"gid": 60021,
-		"members": [
-			"toshi-pono"
-		]
-	},
-	{
 		"name": "yukikurage",
 		"passwd": "",
 		"gecos": "",
@@ -82,23 +48,6 @@
 		"gid": 60032,
 		"members": [
 			"yukikurage"
-		]
-	},
-	{
-		"name": "Rozelin-dc",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/Rozelin-dc",
-		"shell": "/bin/bash",
-		"uid": 60033,
-		"gid": 60033
-	},
-	{
-		"name": "Rozelin-dc",
-		"passwd": "",
-		"gid": 60033,
-		"members": [
-			"Rozelin-dc"
 		]
 	},
 	{
@@ -201,23 +150,6 @@
 		"gid": 60041,
 		"members": [
 			"pikachu0310"
-		]
-	},
-	{
-		"name": "ras0q",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/ras0q",
-		"shell": "/bin/bash",
-		"uid": 60042,
-		"gid": 60042
-	},
-	{
-		"name": "ras0q",
-		"passwd": "",
-		"gid": 60042,
-		"members": [
-			"ras0q"
 		]
 	},
 	{
@@ -533,17 +465,13 @@
 		"members": [
 			"trapyojo",
 			"wasabi315",
-			"hijiki51",
-			"toshi-pono",
 			"yukikurage",
-			"Rozelin-dc",
 			"saitenntaisei",
 			"seigo2016",
 			"zer0-star",
 			"Takeno-hito",
 			"s9-sukyu",
 			"pikachu0310",
-			"ras0q",
 			"cp-20",
 			"pirosiki197",
 			"Pugma",
